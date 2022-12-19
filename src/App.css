@@ -30,3 +30,6 @@
 .card:hover{
   background-color: gray;
 }
+.active{
+  cursor: not-allowed;
+}
