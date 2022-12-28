@@ -1,6 +1,6 @@
 # Memory Game
 
-Simple project of a memory game that will serve as a base for a Pokémon themed memory game, that will later be converted to a native app.
+Simple project of a memory game using 2D array.
 
 ## Available Scripts
 
